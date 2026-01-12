@@ -1,0 +1,44 @@
+{
+  "agent_name": "Sarah Johnson",
+  "category": "negative",
+  "call_id": "SJ-NEG-001",
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Thank you for calling StreamWave Support. This is Sarah. How can I help you today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "My subscription price went up without any notice."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I’m sorry for the frustration. Let me check your account details. May I have your account ID?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It’s 662901."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the increase is due to the end of a promotional discount."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That’s really upsetting. I can’t afford this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand how disappointing that can be. While I can’t reinstate the promotion, I can offer a smaller loyalty discount going forward."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I’m still not happy about it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand. I’ve applied the discount and noted your feedback on the account."
+    }
+  ],
+  "qa_result": "pass_customer_unhappy"
+}

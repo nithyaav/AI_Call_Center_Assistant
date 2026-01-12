@@ -1,0 +1,37 @@
+Agent: Hello, this is customer support. How can I help you?
+
+Customer: Hi, I'm calling to check the status of my refund. I returned an item three weeks ago.
+
+Agent: Okay, let me check. What's your order number?
+
+Customer: I don't have it with me right now. Can you look it up by my name?
+
+Agent: I need the order number to look it up.
+
+Customer: I told you I don't have it. Can't you search by my email or phone number?
+
+Agent: What's your email?
+
+Customer: It's customer123@email.com.
+
+Agent: Hmm, I'm not finding anything. Are you sure that's the right email?
+
+Customer: Yes, I'm sure! This is ridiculous. How hard is it to find my order?
+
+Agent: Well, without the order number, it's difficult. Can you check your email for the order confirmation?
+
+Customer: I'm not at my computer right now. This is terrible service. I just want to know about my refund!
+
+Agent: I understand, but I really need more information to help you.
+
+Customer: This is a waste of my time. Your system is terrible!
+
+Agent: I'm sorry you feel that way. Maybe you can call back when you have your order number?
+
+Customer: Unbelievable. I'm never shopping with your company again!
+
+Agent: Is there anything else I can help with?
+
+Customer: No! Forget it!
+
+Agent: Okay, have a nice day.

@@ -1,0 +1,53 @@
+# Environment variables - NEVER commit API keys!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Data storage - contains sensitive call data
+data_storage/
+data_storage_call_center/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Project-specific (remove if you want to include these)
+PROJECT_SUMMARY.md
+GITHUB_GUIDE.md
+ARCHITECTURE_DIAGRAMS.md
+quickstart.sh
+SETUP_GUIDE.md
+
+# Large files (if any)
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg

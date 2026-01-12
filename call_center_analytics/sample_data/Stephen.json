@@ -1,0 +1,44 @@
+{
+  "agent_name": "Stephen",
+  "category": "positive",
+  "call_id": "STP-001",
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Thank you for calling BrightLine Energy. My name is Stephen. How may I assist you today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Hi, I have a question about a charge on my bill."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I’d be happy to help. May I please verify your account number?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, it’s 774512."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the charge is from additional usage last month. I’ll email a detailed breakdown and suggest ways to reduce future costs."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That sounds great, thank you."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You’re welcome. Is there anything else I can assist you with today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, that’s all."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for calling BrightLine Energy. Have a wonderful day."
+    }
+  ],
+  "qa_result": "pass"
+}

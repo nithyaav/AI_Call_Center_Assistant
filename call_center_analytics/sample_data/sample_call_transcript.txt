@@ -1,0 +1,44 @@
+Call ID: CS-2026-001
+Date: 2026-01-05 14:30:00
+Duration: 5:23
+Caller Name: John Doe
+Agent Name: Sarah Johnson
+
+Conversation:
+Agent: Good afternoon! Thank you for calling Tech Support. My name is Sarah. How may I help you today?
+
+Caller: Hi Sarah. I'm having trouble with my internet connection. It's been really slow for the past two days.
+
+Agent: I'm sorry to hear that you're experiencing slow internet speeds. I understand how frustrating that can be, especially when you need reliable connectivity. Let me help you resolve this issue. May I have your account number please?
+
+Caller: Sure, it's 45678912.
+
+Agent: Thank you, Mr. Doe. I've pulled up your account. I can see you're on our Premium plan. Let me run some diagnostics on your connection. This will just take a moment.
+
+Caller: Okay, no problem.
+
+Agent: Thank you for your patience. I've completed the diagnostics and I can see that there's some congestion on your line. I'm also noticing that your modem firmware is outdated. I'd like to push a firmware update to your modem and also optimize your connection settings. This should significantly improve your speeds.
+
+Caller: That sounds great. Will I need to do anything on my end?
+
+Agent: The firmware update will happen automatically, and your modem will restart. It should only take about 3-5 minutes. I'll stay on the line with you to make sure everything comes back up properly. You may want to avoid using the internet during this brief period.
+
+Caller: Perfect. Go ahead.
+
+Agent: Excellent. I'm initiating the update now... The update has been pushed successfully. Your modem should restart in about 30 seconds.
+
+Caller: Okay, I can see the lights blinking now.
+
+Agent: Perfect. That's exactly what we want to see. Now the modem is coming back online... Great! Everything looks good on my end. Your connection is now optimized and the firmware is updated. Can you try accessing a website to test the speed?
+
+Caller: Yes, let me try... Wow! It's much faster now. The pages are loading almost instantly!
+
+Agent: That's wonderful to hear! I'm so glad we could resolve this for you quickly. Your connection should now be running at optimal speeds. Is there anything else I can help you with today?
+
+Caller: No, that was perfect. Thank you so much for your help, Sarah. You've been very professional and efficient.
+
+Agent: You're very welcome, Mr. Doe! I'm happy I could help. If you experience any other issues, please don't hesitate to call us back. Have a great rest of your day!
+
+Caller: You too! Goodbye.
+
+Agent: Goodbye!

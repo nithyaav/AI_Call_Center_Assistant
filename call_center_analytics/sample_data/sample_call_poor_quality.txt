@@ -1,0 +1,52 @@
+Call ID: CS-2026-002
+Date: 2026-01-05 10:15:00
+Duration: 8:45
+Caller Name: Emily Rodriguez
+Agent Name: Mike Thompson
+
+Conversation:
+Agent: Hello, thank you for calling customer service. This is Mike. How can I assist you?
+
+Caller: Hi, I'm calling about a charge on my credit card that I don't recognize.
+
+Agent: Okay. What's the charge amount and date?
+
+Caller: It's for $89.99 on January 3rd. I didn't make any purchases that day.
+
+Agent: Account number?
+
+Caller: Uh, let me find it... It's 78945612.
+
+Agent: Hold on... Yeah, I see the charge. It's from our online store.
+
+Caller: But I didn't buy anything from your online store. This must be a mistake or fraud.
+
+Agent: Well, it shows as processed. Are you sure no one in your household made the purchase?
+
+Caller: I'm positive. I live alone. Can you tell me what was purchased?
+
+Agent: It says here... wireless headphones.
+
+Caller: I definitely didn't order wireless headphones. I need this charge reversed immediately.
+
+Agent: I can't just reverse charges. There's a process. You'll need to fill out a dispute form.
+
+Caller: A dispute form? This is clearly an error. Can't you just cancel it and refund me?
+
+Agent: Like I said, there's a process. I can email you the form.
+
+Caller: How long will this take? I need that money back in my account.
+
+Agent: Usually takes 5-10 business days to process disputes.
+
+Caller: That's unacceptable! I didn't make this purchase. Why should I wait that long?
+
+Agent: That's just how it works. I don't make the rules.
+
+Caller: Can I speak to a supervisor?
+
+Agent: They'll tell you the same thing. But sure, hold on.
+
+Caller: This is ridiculous. I've been a customer for five years and this is how you treat people?
+
+Agent: I'm just following procedure. Hold please.

@@ -1,0 +1,29 @@
+Agent Sarah: Good afternoon, thank you for calling TechSupport Plus. My name is Sarah. How may I assist you today?
+
+Customer John: Hi Sarah, my name is John Martinez. I'm having trouble accessing my account online. It keeps saying my password is incorrect, but I'm sure I'm using the right one.
+
+Agent Sarah: I'm sorry to hear you're experiencing difficulty with your account access, John. I'd be happy to help you resolve this. Let me pull up your account. Can you please verify your email address associated with the account?
+
+Customer John: Sure, it's john.martinez@email.com.
+
+Agent Sarah: Thank you, John. I can see your account here. It looks like your account was temporarily locked after three failed login attempts for security purposes. This is actually a good thing as it protects your account from unauthorized access.
+
+Customer John: Oh, I see. I didn't know that could happen. How do I unlock it?
+
+Agent Sarah: No problem at all! I can unlock it for you right now. For security verification, can you please confirm the last four digits of the phone number we have on file?
+
+Customer John: Yes, it ends in 5678.
+
+Agent Sarah: Perfect, thank you. I've just unlocked your account. Now, I'd recommend resetting your password just to be safe. Would you like me to send you a password reset link to your email?
+
+Customer John: Yes, that would be great. Thank you so much!
+
+Agent Sarah: You're very welcome! I've just sent the reset link to john.martinez@email.com. You should receive it within the next few minutes. Once you reset your password, you'll be able to log in without any issues. Is there anything else I can help you with today?
+
+Customer John: No, that's everything. You've been really helpful, Sarah. I appreciate your patience.
+
+Agent Sarah: It's my pleasure, John! I'm glad I could help. If you have any other questions or concerns in the future, please don't hesitate to reach out. Have a wonderful day!
+
+Customer John: You too, thanks again. Bye!
+
+Agent Sarah: Goodbye, and thank you for calling TechSupport Plus!

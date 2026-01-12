@@ -1,0 +1,25 @@
+Agent: Hello, this is customer service. How can I help you?
+
+Customer: Finally! I've been trying to reach someone for an hour. Your company is absolutely terrible!
+
+Agent: I understand you're frustrated. What seems to be the problem?
+
+Customer: Frustrated? I'm beyond frustrated! You people are complete idiots! Every single person at your company is incompetent!
+
+Agent: Sir, I need you to calm down so I can help you.
+
+Customer: Don't tell me to calm down! I hate dealing with you people. You're all worthless! I swear, if this isn't fixed, I'm going to come down there and make sure everyone knows how horrible you are!
+
+Agent: Sir, I'm going to have to ask you to stop using that language.
+
+Customer: I'll use whatever language I want! This is ridiculous! You should all be fired! I can't believe how terrible this service is!
+
+Agent: I understand you're upset, but threatening language is not acceptable.
+
+Customer: I'm not threatening anyone! But someone better fix this or there will be consequences! I know where your office is!
+
+Agent: Sir, I'm going to have to end this call if you continue.
+
+Customer: Fine! Your company is garbage and I hope it fails! You're all terrible people!
+
+Agent: I'm ending this call now. Goodbye.

@@ -1,0 +1,44 @@
+{
+  "agent_name": "Mike Thomson",
+  "category": "negative",
+  "call_id": "MT-NEG-003",
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Thank you for calling PayLine Support. This is Mike Thomson. How can I help you today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "I was promised a refund two weeks ago and I still haven’t received it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I’m sorry about the delay. Let me look into that for you. May I have your ticket number?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It’s RFD-78122."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the refund was approved but is still pending with the bank."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That’s what I was told last week too."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand how frustrating that can be. Unfortunately, I don’t have the ability to speed up bank processing times."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So there’s nothing you can do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "At this point, the best option is to wait another 3–5 business days. I’ve added notes to your case."
+    }
+  ],
+  "qa_result": "pass_customer_unhappy"
+}
