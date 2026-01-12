@@ -23,46 +23,6 @@ In modern call centers, crucial insights from conversations are often trapped in
 - ✅ **Consistency & Compliance**: Standardize evaluations across interactions
 - 🎤 **Voice-to-Insights Pipeline**: Convert audio into structured data for decision-making
 
-## 🆕 Recent Enhancements (2026)
-
-### 🛡️ Content Safety Guardrails
-- **Automated content moderation** using OpenAI Moderation API
-- Detects inappropriate content: harassment, threats, hate speech, violence, sexual content
-- Flags violations for manual review instead of blocking processing
-- Preserves all data for compliance and audit trails
-- Checks transcribed text (not raw input) for accuracy
-
-### ✨ Manual Review System
-- **Comprehensive review queue** accessible from Agent Performance page
-- Three-tab interface: Agent Rankings, Agent Reports, Manual Review Queue
-- Shows flagged content even when no agents are ranked
-- Visual indicators: 🚨 for content safety violations, 📋 for incomplete data
-- Displays full transcripts with flagged categories
-- Graceful empty state handling for all tabs
-
-### ✨ Complete Data Persistence
-- **Zero data loss** guarantee - ALL calls saved regardless of agent name or quality score presence
-- Manual review system flags incomplete data while preserving full transcript and summary
-- Selective analytics updates ensure only reliable data affects agent rankings
-- Content safety violations stored with FLAGGED_ prefix for easy identification
-
-### ✨ Improved Scoring Accuracy
-- **Context-aware scoring**: Rubric adapts for problem resolution vs informational calls
-- **Smart fallback**: Calculates mean only from extracted scores (no arbitrary 7.0 defaults)
-- Incomplete scoring flagged for manual review instead of using biased defaults
-- Quality scoring always runs (even without agent name) to provide call insights
-
-### ✨ Cost Optimizations
-- **35% API cost reduction** through combined validation + metadata extraction
-- Conditional data storage updates (only updates analytics when agent identified)
-- Single LLM call for intake phase (was two separate calls)
-
-### ✨ Enhanced User Experience
-- Clear manual review warnings distinguish content safety vs missing agent vs failed scoring
-- Storage confirmations for all scenarios (success, partial data, review needed, flagged)
-- Improved metadata display with "N/A" indicators for missing fields
-- Manual Review tab badge shows count of items needing review
-
 ## ✨ Features
 
 ### �️ **Content Safety Agent** ✨ 
@@ -390,15 +350,6 @@ Input (Text/Audio)
     Results + Analytics + Manual Review Queue
 ```
 
-### Key Enhancements:
-- 🛡️ **Content Safety Guardrails**: Checks transcripts before normal processing
-- ✅ **Complete Data Persistence**: All calls saved, including flagged content
-- ✅ **Smart Fallback Scoring**: Mean of extracted scores only (no arbitrary defaults)
-- ✅ **Context-Aware Evaluation**: Adapts to problem resolution vs informational calls
-- ✅ **Manual Review System**: Flags incomplete/unsafe calls for human verification
-- ✅ **Selective Analytics**: Only updates agent rankings when data is reliable
-- ✅ **Cost Optimization**: 35% API cost reduction via combined validation
-- ✅ **Always Accessible**: Manual Review Queue visible even without agent rankings
 
 ## 💰 Cost Estimate
 
