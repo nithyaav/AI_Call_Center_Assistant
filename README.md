@@ -85,7 +85,7 @@ In modern call centers, crucial insights from conversations are often trapped in
 - **Manual Review System**: Flags incomplete/unsafe calls for human verification
 - **Flagged Content Storage**: Separate files with FLAGGED_ prefix for content safety violations
 
-### 🔄 **Workflow Orchestration (LangGraph)** ✨ Enhanced
+### 🔄 **Workflow Orchestration (LangGraph)** 
 - Orchestrates workflow between all 6 agents
 - **Intelligent Conditional Routing**:
   - Audio vs text input routing
